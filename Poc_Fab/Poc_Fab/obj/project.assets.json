@@ -864,11 +864,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj",
+      "projectUniqueName": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj",
       "projectName": "Poc_Fab",
-      "projectPath": "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj",
+      "projectPath": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj",
       "packagesPath": "C:\\Users\\pchopade\\.nuget\\packages\\",
-      "outputPath": "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab\\obj\\",
+      "outputPath": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

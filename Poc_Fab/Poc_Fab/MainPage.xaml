@@ -9,12 +9,12 @@
 
     <Grid>
         <!-- Place new controls here -->
-
-        <Label Text="Welcome to Xamarin.Forms!" 
+        <!--<Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+           VerticalOptions="CenterAndExpand" />-->
 
-        <pv:PancakeView HorizontalOptions="End" VerticalOptions="End" Margin="30" CornerRadius="40" Padding="15">
+
+        <pv:PancakeView HorizontalOptions="End" VerticalOptions="End" Margin="30">
             <pv:PancakeView.BackgroundGradientStops>
                 <pv:GradientStopCollection>
                     <pv:GradientStop Color="Transparent" Offset="0" />
@@ -23,24 +23,24 @@
             </pv:PancakeView.BackgroundGradientStops>
             <Expander HorizontalOptions="Start" VerticalOptions="End" Rotation="180" BackgroundColor="Transparent">
                 <Expander.Header>
-                    <Image Source="plus_PNG109.png" HorizontalOptions="Start" WidthRequest="50" HeightRequest="50"/>
+                    <Image Source="android.png" HorizontalOptions="Start" WidthRequest="50" HeightRequest="50"/>
                 </Expander.Header>
-                <StackLayout Spacing="30" Margin="0,20"  BackgroundColor="Transparent">
+                <StackLayout Spacing="20" Margin="10,20"  BackgroundColor="Transparent">
                     <StackLayout Orientation="Horizontal">
-                        <ImageButton Source="setting.png"  WidthRequest="50" HeightRequest="50" BackgroundColor="Transparent" Rotation="180"></ImageButton>
-                        <Label Text="Preference" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" BackgroundColor="Transparent" Rotation="180"/>
+                        <ImageButton Source="preferences.png"  WidthRequest="30" HeightRequest="30" BackgroundColor="Transparent" Rotation="180"></ImageButton>
+                        <Label Text="Preference" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" BackgroundColor="Transparent" Rotation="180"/>
                     </StackLayout>
                     <StackLayout Orientation="Horizontal">
-                        <ImageButton Source="user.png"  WidthRequest="50" HeightRequest="50" BackgroundColor="Transparent" Rotation="180"></ImageButton>
-                        <Label Text="History"  FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" BackgroundColor="Transparent" Rotation="180"/>
+                        <ImageButton Source="history.png"  WidthRequest="30" HeightRequest="30" BackgroundColor="Transparent" Rotation="180"></ImageButton>
+                        <Label Text="History" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" BackgroundColor="Transparent" Rotation="180"/>
                     </StackLayout>
                     <StackLayout Orientation="Horizontal">
-                        <ImageButton Source="dashboard.png"  WidthRequest="50" HeightRequest="50" BackgroundColor="Transparent" Rotation="180"></ImageButton>
-                        <Label Text="Dashboard" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" BackgroundColor="Transparent" Rotation="180"/>
+                        <ImageButton Source="dashboard.png"  WidthRequest="30" HeightRequest="30" BackgroundColor="Transparent" Rotation="180"></ImageButton>
+                        <Label Text="Dashboard" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" BackgroundColor="Transparent" Rotation="180"/>
                     </StackLayout>
                     <StackLayout Orientation="Horizontal">
-                        <ImageButton Source="tracking.png"  WidthRequest="50" HeightRequest="50" BackgroundColor="Transparent" Rotation="180"></ImageButton>
-                        <Label Text="Live Tracking"  FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" BackgroundColor="Transparent" Rotation="180"/>
+                        <ImageButton Source="live_location.png"  WidthRequest="30" HeightRequest="30" BackgroundColor="Transparent" Rotation="180"></ImageButton>
+                        <Label Text="Live Tracking"  HorizontalOptions="Center" VerticalOptions="CenterAndExpand" BackgroundColor="Transparent" Rotation="180"/>
                     </StackLayout>
                 </StackLayout>
             </Expander>

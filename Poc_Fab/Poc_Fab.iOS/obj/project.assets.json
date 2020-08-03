@@ -1155,11 +1155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab.iOS\\Poc_Fab.iOS.csproj",
+      "projectUniqueName": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab.iOS\\Poc_Fab.iOS.csproj",
       "projectName": "Poc_Fab.iOS",
-      "projectPath": "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab.iOS\\Poc_Fab.iOS.csproj",
+      "projectPath": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab.iOS\\Poc_Fab.iOS.csproj",
       "packagesPath": "C:\\Users\\pchopade\\.nuget\\packages\\",
-      "outputPath": "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab.iOS\\obj\\",
+      "outputPath": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1180,8 +1180,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj": {
-              "projectPath": "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj"
+            "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj": {
+              "projectPath": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj"
             }
           }
         }

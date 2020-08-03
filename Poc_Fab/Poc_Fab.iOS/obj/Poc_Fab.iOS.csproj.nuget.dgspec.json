@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab.iOS\\Poc_Fab.iOS.csproj": {}
+    "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab.iOS\\Poc_Fab.iOS.csproj": {}
   },
   "projects": {
-    "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab.iOS\\Poc_Fab.iOS.csproj": {
+    "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab.iOS\\Poc_Fab.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab.iOS\\Poc_Fab.iOS.csproj",
+        "projectUniqueName": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab.iOS\\Poc_Fab.iOS.csproj",
         "projectName": "Poc_Fab.iOS",
-        "projectPath": "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab.iOS\\Poc_Fab.iOS.csproj",
+        "projectPath": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab.iOS\\Poc_Fab.iOS.csproj",
         "packagesPath": "C:\\Users\\pchopade\\.nuget\\packages\\",
-        "outputPath": "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab.iOS\\obj\\",
+        "outputPath": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj": {
-                "projectPath": "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj"
+              "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj": {
+                "projectPath": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj": {
+    "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj",
+        "projectUniqueName": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj",
         "projectName": "Poc_Fab",
-        "projectPath": "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj",
+        "projectPath": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj",
         "packagesPath": "C:\\Users\\pchopade\\.nuget\\packages\\",
-        "outputPath": "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab\\obj\\",
+        "outputPath": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

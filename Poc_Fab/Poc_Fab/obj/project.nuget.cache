@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IiSeU6U1PZCdnfLKbzd9v78zEkcMEY54L8y7F+dBCIWJ0Kh2IxM3Oe98lD67AQGRUqAl3a0k9IQUD/QBp10/UQ==",
+  "dgSpecHash": "6NA67A+UOnnAOEZC1gVEL5+Wmv56QFgQ6lJJf8vzsy3S0Ok0pEFOsYhRPOHhY8pY4myys4iiahGZ2BwiFYWGDg==",
   "success": true,
-  "projectFilePath": "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj",
+  "projectFilePath": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pchopade\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\pchopade\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

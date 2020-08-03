@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+PfehUpwElBucBXlTol0CSwwa3Y8EvL0BlffE3fpgpoV8RsEJ9RDRRYPnTR40qnBIOGRh6dsh+E4J1YjFS/dOA==",
+  "dgSpecHash": "bJ9WZ+/LVxgH8qTok4RqEYNkhjzlkH/3/o2H3ZhNbUs98hlPu/z2jPIWLa07esOG6o9B87IJD9qbTjCszTDZwQ==",
   "success": true,
-  "projectFilePath": "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab.Android\\Poc_Fab.Android.csproj",
+  "projectFilePath": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab.Android\\Poc_Fab.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pchopade\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",

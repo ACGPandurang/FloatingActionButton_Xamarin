@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HIbD+SC9/caB942UsObaPdF3ifKwQ4W5W1LISQaqbRENwc3uGV4gDdw1Ayc44RpuqQnlzWGzGo3F4v31KhjREw==",
+  "dgSpecHash": "toTvz8owxsZglKIlZe5JZXJ/TuVs2Qg8S5cXnxKh4wiqkdB01TAQC0BscaGcmvGBTcISYvlXs9l0T16+eOZvSA==",
   "success": true,
-  "projectFilePath": "E:\\Sample Application\\Xamarin\\Poc_Fab\\Poc_Fab\\Poc_Fab.iOS\\Poc_Fab.iOS.csproj",
+  "projectFilePath": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab.iOS\\Poc_Fab.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pchopade\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
     "C:\\Users\\pchopade\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",

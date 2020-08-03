@@ -8288,7 +8288,7 @@ namespace Poc_Fab.Droid
 			public const int abc_vector_test = 2131165273;
 			
 			// aapt resource value: 0x7F07005A
-			public const int add = 2131165274;
+			public const int android = 2131165274;
 			
 			// aapt resource value: 0x7F07005B
 			public const int avd_hide_password = 2131165275;
@@ -8318,7 +8318,7 @@ namespace Poc_Fab.Droid
 			public const int design_snackbar_background = 2131165283;
 			
 			// aapt resource value: 0x7F070064
-			public const int facebook = 2131165284;
+			public const int history = 2131165284;
 			
 			// aapt resource value: 0x7F070065
 			public const int ic_mtrl_chip_checked_black = 2131165285;
@@ -8330,7 +8330,7 @@ namespace Poc_Fab.Droid
 			public const int ic_mtrl_chip_close_circle = 2131165287;
 			
 			// aapt resource value: 0x7F070068
-			public const int instagram = 2131165288;
+			public const int live_location = 2131165288;
 			
 			// aapt resource value: 0x7F070069
 			public const int mtrl_snackbar_background = 2131165289;
@@ -8378,25 +8378,13 @@ namespace Poc_Fab.Droid
 			public const int notify_panel_notification_icon_bg = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int plus_PNG109 = 2131165304;
+			public const int preferences = 2131165304;
 			
 			// aapt resource value: 0x7F070079
-			public const int setting = 2131165305;
+			public const int tooltip_frame_dark = 2131165305;
 			
 			// aapt resource value: 0x7F07007A
-			public const int tooltip_frame_dark = 2131165306;
-			
-			// aapt resource value: 0x7F07007B
-			public const int tooltip_frame_light = 2131165307;
-			
-			// aapt resource value: 0x7F07007C
-			public const int tracking = 2131165308;
-			
-			// aapt resource value: 0x7F07007D
-			public const int user = 2131165309;
-			
-			// aapt resource value: 0x7F07007E
-			public const int whatsapp = 2131165310;
+			public const int tooltip_frame_light = 2131165306;
 			
 			static Drawable()
 			{

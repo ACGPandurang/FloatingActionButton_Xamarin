@@ -4554,7 +4554,7 @@ public final class R {
     public static final int abc_textfield_search_default_mtrl_alpha=0x7f070057;
     public static final int abc_textfield_search_material=0x7f070058;
     public static final int abc_vector_test=0x7f070059;
-    public static final int add=0x7f07005a;
+    public static final int android=0x7f07005a;
     public static final int avd_hide_password=0x7f07005b;
     public static final int avd_show_password=0x7f07005c;
     public static final int dashboard=0x7f07005d;
@@ -4564,11 +4564,11 @@ public final class R {
     public static final int design_ic_visibility_off=0x7f070061;
     public static final int design_password_eye=0x7f070062;
     public static final int design_snackbar_background=0x7f070063;
-    public static final int facebook=0x7f070064;
+    public static final int history=0x7f070064;
     public static final int ic_mtrl_chip_checked_black=0x7f070065;
     public static final int ic_mtrl_chip_checked_circle=0x7f070066;
     public static final int ic_mtrl_chip_close_circle=0x7f070067;
-    public static final int instagram=0x7f070068;
+    public static final int live_location=0x7f070068;
     public static final int mtrl_snackbar_background=0x7f070069;
     public static final int mtrl_tabs_default_indicator=0x7f07006a;
     public static final int navigation_empty_icon=0x7f07006b;
@@ -4584,13 +4584,9 @@ public final class R {
     public static final int notification_template_icon_low_bg=0x7f070075;
     public static final int notification_tile_bg=0x7f070076;
     public static final int notify_panel_notification_icon_bg=0x7f070077;
-    public static final int plus_png109=0x7f070078;
-    public static final int setting=0x7f070079;
-    public static final int tooltip_frame_dark=0x7f07007a;
-    public static final int tooltip_frame_light=0x7f07007b;
-    public static final int tracking=0x7f07007c;
-    public static final int user=0x7f07007d;
-    public static final int whatsapp=0x7f07007e;
+    public static final int preferences=0x7f070078;
+    public static final int tooltip_frame_dark=0x7f070079;
+    public static final int tooltip_frame_light=0x7f07007a;
   }
   public static final class id {
     public static final int ALT=0x7f080000;
