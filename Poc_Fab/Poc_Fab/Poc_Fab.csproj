@@ -12,10 +12,35 @@
 
   <ItemGroup>
     <None Remove="Images\plus_PNG109.png" />
+    <None Remove="Images\android.png" />
+    <None Remove="Images\dashboard.png" />
+    <None Remove="Images\history.png" />
+    <None Remove="Images\live_location.png" />
+    <None Remove="Images\preferences.jpg" />
   </ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Include="Images\plus_PNG109.png" />
+    <EmbeddedResource Include="Images\fab_main.png">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateGeneratedFiles</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Images\dashboard.png">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateGeneratedFiles</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Images\history.png">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateGeneratedFiles</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Images\live_location.png">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateGeneratedFiles</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Images\preferences.jpg">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateGeneratedFiles</Generator>
+    </EmbeddedResource>
   </ItemGroup>
 
   <ItemGroup>

@@ -2035,39 +2035,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pchopade\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/rchaskar/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab.Android\\Poc_Fab.Android.csproj",
+      "projectUniqueName": "/Users/rchaskar/Desktop/POC/Poc_Fab/Poc_Fab.Android/Poc_Fab.Android.csproj",
       "projectName": "Poc_Fab.Android",
-      "projectPath": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab.Android\\Poc_Fab.Android.csproj",
-      "packagesPath": "C:\\Users\\pchopade\\.nuget\\packages\\",
-      "outputPath": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab.Android\\obj\\",
+      "projectPath": "/Users/rchaskar/Desktop/POC/Poc_Fab/Poc_Fab.Android/Poc_Fab.Android.csproj",
+      "packagesPath": "/Users/rchaskar/.nuget/packages/",
+      "outputPath": "/Users/rchaskar/Desktop/POC/Poc_Fab/Poc_Fab.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\pchopade\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/rchaskar/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj": {
-              "projectPath": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj"
+            "/Users/rchaskar/Desktop/POC/Poc_Fab/Poc_Fab/Poc_Fab.csproj": {
+              "projectPath": "/Users/rchaskar/Desktop/POC/Poc_Fab/Poc_Fab/Poc_Fab.csproj"
             }
           }
         }

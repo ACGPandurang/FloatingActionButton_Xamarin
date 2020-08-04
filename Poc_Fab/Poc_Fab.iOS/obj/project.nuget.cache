@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "toTvz8owxsZglKIlZe5JZXJ/TuVs2Qg8S5cXnxKh4wiqkdB01TAQC0BscaGcmvGBTcISYvlXs9l0T16+eOZvSA==",
+  "dgSpecHash": "6OjThtTDpG+ayw7PPaOhJ00+Mw9XQLL8/QJm6orL4mW1XiaQjsfweVylJX4HRiOd9zEfoeFQ+Obn2mAmVncivw==",
   "success": true,
-  "projectFilePath": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab.iOS\\Poc_Fab.iOS.csproj",
+  "projectFilePath": "/Users/rchaskar/Desktop/POC/Poc_Fab/Poc_Fab.iOS/Poc_Fab.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pchopade\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
-    "C:\\Users\\pchopade\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Users\\pchopade\\.nuget\\packages\\xamarin.forms\\4.7.0.1179\\xamarin.forms.4.7.0.1179.nupkg.sha512",
-    "C:\\Users\\pchopade\\.nuget\\packages\\xamarin.forms.pancakeview\\2.0.1.698\\xamarin.forms.pancakeview.2.0.1.698.nupkg.sha512"
+    "/Users/rchaskar/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
+    "/Users/rchaskar/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/rchaskar/.nuget/packages/xamarin.forms/4.7.0.1179/xamarin.forms.4.7.0.1179.nupkg.sha512",
+    "/Users/rchaskar/.nuget/packages/xamarin.forms.pancakeview/2.0.1.698/xamarin.forms.pancakeview.2.0.1.698.nupkg.sha512"
   ],
   "logs": []
 }

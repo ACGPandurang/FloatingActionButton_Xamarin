@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -90,7 +89,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Poc_Fab\Poc_Fab.csproj">
-      <Project>{5DD37FFB-C508-4E93-83CF-42D0E3856D19}</Project>
+      <Project>{607F56C1-867F-4D7D-8CFD-53FAF5DAE48A}</Project>
       <Name>Poc_Fab</Name>
     </ProjectReference>
   </ItemGroup>

@@ -1,18 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "6NA67A+UOnnAOEZC1gVEL5+Wmv56QFgQ6lJJf8vzsy3S0Ok0pEFOsYhRPOHhY8pY4myys4iiahGZ2BwiFYWGDg==",
+  "dgSpecHash": "YnBiW8JixnZgyr+yPgOK5mjSqwTlYjxJfYeib+G9cx+a7uvX1r/w86Edh3oI36yz0LjRn4Uq8HANZu8v9fEojw==",
   "success": true,
-  "projectFilePath": "E:\\Sample Application\\Xamarin\\New folder\\Poc_Fab\\Poc_Fab\\Poc_Fab.csproj",
+  "projectFilePath": "/Users/rchaskar/Desktop/POC/Poc_Fab/Poc_Fab/Poc_Fab.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pchopade\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\pchopade\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\pchopade\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\pchopade\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
-    "C:\\Users\\pchopade\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\pchopade\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
-    "C:\\Users\\pchopade\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Users\\pchopade\\.nuget\\packages\\xamarin.forms\\4.7.0.1179\\xamarin.forms.4.7.0.1179.nupkg.sha512",
-    "C:\\Users\\pchopade\\.nuget\\packages\\xamarin.forms.pancakeview\\2.0.1.698\\xamarin.forms.pancakeview.2.0.1.698.nupkg.sha512"
+    "/Users/rchaskar/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/rchaskar/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/rchaskar/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/rchaskar/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
+    "/Users/rchaskar/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/rchaskar/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/rchaskar/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/rchaskar/.nuget/packages/xamarin.forms/4.7.0.1179/xamarin.forms.4.7.0.1179.nupkg.sha512",
+    "/Users/rchaskar/.nuget/packages/xamarin.forms.pancakeview/2.0.1.698/xamarin.forms.pancakeview.2.0.1.698.nupkg.sha512"
   ],
   "logs": []
 }
